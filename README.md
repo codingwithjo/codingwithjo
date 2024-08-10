@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @codingwithjo
-- 👀 I’m interested in anything data science, analytics, artificial intelligence and machine learning !!
-- 🌱 I’m currently expanding my knowlegde in data science and creating projects using Python :) 
+Hi, I'm Jowaria 👩🏽‍💻, an aspiring Data Scientist with a first class degree in Economics with Computer Science from the University of Essex! I have a strong foundation in statistics, data analysis/science and a strong passion for anything data, artificial intelligence and machine learning, and I am passionate about leveraging data to drive insights and solutions. My technical skills include Python, R, SQL, and various data visualisation tools. This portfolio repository contains my data science projects, showcasing my skills and expertise in the field where eahc project demonstrates different aspects of data analysis, machine learning, and data visualisation.
 <!---
 codingwithjo/codingwithjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
